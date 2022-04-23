@@ -1,4 +1,4 @@
-## Welcome to My Github
+## Welcome to My Github Page
 
 You can use the [editor on GitHub](https://github.com/tshakiraa/tshakiraa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](![IMG-20190605-WA0028](https://user-images.githubusercontent.com/104211310/164910581-a15580ae-7c91-4c42-8001-a3d9003bd917.jpg)
+[Link](url) and ![IMG-20190605-WA0028](https://user-images.githubusercontent.com/104211310/164910957-5070522c-4906-4b85-8174-c58176590ca1.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
