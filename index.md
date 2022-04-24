@@ -1,5 +1,5 @@
 ## PZSIB Assessment
 
-### Category 1
+### Project Pertama
 
-[Project Dummy](https://github.com/tshakiraa/tshakiraa.github.io/blob/main/PZSIB1.ipynb)
+[Titanic](https://github.com/tshakiraa/tshakiraa.github.io/blob/main/PZSIB1.ipynb)
